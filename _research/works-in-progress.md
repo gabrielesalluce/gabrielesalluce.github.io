@@ -7,4 +7,4 @@ excerpt: 'This section is dedicated to my current work in progress'
 ---
 
 
-#### Political connections and wealth accumulation of US Ultra-rich (with Philipp Harting, and Giorgio Fagiolo)
+*"Political connections and wealth accumulation of US Ultra-rich"*, with Philipp Harting, and Giorgio Fagiolo

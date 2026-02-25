@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Me in Real Life"
+permalink: /me-in-real-life/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>If scrolling through my research acted as a powerful sedative, you have arrived at the right place. This section is dedicated to <em>Me in Real Life</em>&mdash;the statistically significant portion of my existence where I attempt to be interesting.</p>
+
+<p>It is arguably the least boring page on this website (though, admittedly, the bar was set pretty low).</p>
+
+{% for post in site.me-in-real-life %}
+  {% include archive-single.html %}
+{% endfor %}
+
