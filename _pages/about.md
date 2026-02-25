@@ -12,3 +12,12 @@ I am Gabriele, a PhD student in Economics at  *[GREDEG, CNRS - Université Côte
 My research interests lie in **political economy** and **inequality**. My methodological approach spans from **network science** and **computer simulations** to standard econometric analysis.
 
 Before my PhD, I worked as a Research Assistant at the [University of Trento](https://www.unitn.it/en), where I also obtained my M.Sc in Economics, graduating *summa cum laude*.
+
+
+
+
+
+
+
+
+

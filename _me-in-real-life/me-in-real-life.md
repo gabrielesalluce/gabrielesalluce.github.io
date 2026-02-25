@@ -6,8 +6,8 @@ If scrolling through my research acted as a powerful sedative, you have arrived 
 
 It is arguably the least boring page on this website (though, admittedly, the bar was set pretty low).
 
-### Scuba Diving
+## Scuba Diving
 
-### FC Internazionale Milano
+## FC Internazionale Milano
 
-### One Piece
+## One Piece
