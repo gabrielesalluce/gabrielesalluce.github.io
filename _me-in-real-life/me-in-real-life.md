@@ -1,5 +1,5 @@
 ---
-permalink: /me-in-real-life
+permalink: /me-in-real-life/
 ---
 
 If scrolling through my research acted as a powerful sedative, you have arrived at the right place. This section is dedicated to *Me in Real Life* —the statistically significant portion of my existence where I attempt to be interesting.
