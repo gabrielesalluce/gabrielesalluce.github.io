@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Nice to Meet you!"
+title: "Nice to Meet You!"
 author_profile: true
 redirect_from: 
   - /about/
