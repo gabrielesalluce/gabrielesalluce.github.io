@@ -4,26 +4,16 @@
     "email": "gabriele.salluce@etu.univ-cotedazur.fr",
     "phone": "",
     "website": "https://gabrielesalluce.github.io",
-    "summary": "2nd Year PhD Student in Economics",
+    "summary": "GREDEG, Université Côte d'Azur - CNRS, joint program with Scuola Superiore Sant'Anna - Pisa",
     "location": {
       "address": "",
       "postalCode": "",
       "city": "Nice",
-      "countryCode": "FR",
+      "countryCode": "Fr",
       "region": ""
     },
     "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": ""
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": ""
-      },
-      {
+            {
         "network": "GitHub",
         "username": "gabrielesalluce",
         "url": "https://github.com/gabrielesalluce"
@@ -40,88 +30,128 @@
       }
     ]
   },
-  "work": [],
+  "work": [
+    {
+      "name": "University of Trento",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2024-03",
+      "endDate": "2024-09",
+      "summary": "Department of Economics and Management. Coordinator: Prof. Stefano Zambelli.",
+      "highlights": []
+    },
+    {
+      "name": "Atout African Arch.it",
+      "position": "Internship",
+      "url": "",
+      "startDate": "2023-01",
+      "endDate": "2023-05",
+      "summary": "Humanitarian Organization in Rovereto (Trento), Italy.",
+      "highlights": []
+    }
+  ],
   "education": [
     {
       "institution": "GREDEG, Université Côte d'Azur - CNRS, joint program with Scuola Superiore Sant'Anna - Pisa",
-      "area": "Ph.D in Economics",
-      "studyType": "",
-      "startDate": "2024",
-      "endDate": "",
+      "area": "PhD Student in Economics",
+      "studyType": "PhD",
+      "startDate": "2024-10",
+      "endDate": "Present",
       "gpa": null,
       "courses": []
     },
     {
       "institution": "University of Trento",
-      "area": "M.Sc. in Economics",
-      "studyType": "",
+      "area": "M.Sc in Behavioural and Applied Economics",
+      "studyType": "Master",
       "startDate": "",
-      "endDate": "2023",
-      "gpa": null,
-      "courses": []
+      "endDate": "2024-02",
+      "gpa": "110/110 summa cum laude",
+      "courses": [
+        "Supervisor: Prof. Stefano Zambelli"
+      ]
     },
     {
       "institution": "University of Trento",
-      "area": "B.Sc. in Economics",
-      "studyType": "",
+      "area": "B.Sc in Economics and Management",
+      "studyType": "Bachelor",
       "startDate": "",
-      "endDate": "2021",
-      "gpa": null,
-      "courses": []
+      "endDate": "2021-07",
+      "gpa": "110/110 summa cum laude",
+      "courses": [
+        "Supervisor: Prof. Chiara Tomasi"
+      ]
     }
   ],
-  "skills": [],
-  "languages": ["Italian (Native), English (Proficient), French (Basic)"],
-  "interests": ["Political Economy and Inequality"],
+  "skills": [
+    {
+      "name": "Digital Skills",
+      "level": "",
+      "keywords": [
+        "MATLAB",
+        "Julia",
+        "R",
+        "STATA",
+        "Python"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Italian",
+      "fluency": "Mother tongue"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "French",
+      "fluency": "Basic"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Economics",
+      "keywords": [
+        "Political Economy",
+        "Inequality"
+      ]
+    }
+  ],
   "references": [],
-  "publications": [
+  "publications": [],
+  "presentations": [],
+  "awards": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "title": "Research Scholarship",
+      "date": "2024-03",
+      "awarder": "University of Trento",
+      "summary": "Project: Algorithms for the theoretical studies of economic agents decision making and market behaviors."
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "TA Introduction to Economic Reasoning: Principles of Economics (B.Sc.)",
+      "institution": "SciencesPo - Menton",
+      "date": "2026-02",
+      "role": "Teaching Assistant",
+      "description": "February 2026 - April 2026"
     },
     {
-      "course": "TA Macroeconomics",
-      "institution": "University of Trento, Msc in Economics",
-      "date": "2023-03-01",
-      "role": "TA",
-      "description": ""
+      "course": "TA Computer Simulation for Economics (M.Sc)",
+      "institution": "University of Trento",
+      "date": "2024-03",
+      "role": "Teaching Assistant",
+      "description": "March 2024 - June 2024"
     },
     {
-      "course": "TA Computer Simulation for Economics",
-      "institution": "University of Trento, Msc in Economics",
-      "date": "2024-03-01",
-      "role": "TA",
-      "description": ""
+      "course": "TA Macroeconomics (M.Sc)",
+      "institution": "University of Trento",
+      "date": "2023-03",
+      "role": "Teaching Assistant",
+      "description": "March 2023 - June 2023"
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+  "portfolio": []
 }
