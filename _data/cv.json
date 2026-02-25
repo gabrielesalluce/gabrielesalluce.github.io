@@ -2,16 +2,12 @@
   "basics": {
     "name": "Gabriele Salluce",
     "email": "gabriele.salluce@etu.univ-cotedazur.fr",
-    "phone": "",
     "website": "https://gabrielesalluce.github.io",
-    "summary": "GREDEG, Université Côte d'Azur - CNRS, joint program with Scuola Superiore Sant'Anna - Pisa",
+    "summary": "I am a PhD Student in Economics at GREDEG, Université Côte d'Azur - CNRS, joint program with Scuola Superiore Sant'Anna - Pisa",
     "location": {
-      "address": "",
-      "postalCode": "",
       "city": "Nice",
-      "countryCode": "Fr",
-      "region": ""
-    },
+      "countryCode": "Fr"
+      },
     "profiles": [
             {
         "network": "GitHub",
@@ -30,26 +26,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "name": "University of Trento",
-      "position": "Research Assistant",
-      "url": "",
-      "startDate": "2024-03",
-      "endDate": "2024-09",
-      "summary": "Department of Economics and Management. Coordinator: Prof. Stefano Zambelli.",
-      "highlights": []
-    },
-    {
-      "name": "Atout African Arch.it",
-      "position": "Internship",
-      "url": "",
-      "startDate": "2023-01",
-      "endDate": "2023-05",
-      "summary": "Humanitarian Organization in Rovereto (Trento), Italy.",
-      "highlights": []
-    }
-  ],
   "education": [
     {
       "institution": "GREDEG, Université Côte d'Azur - CNRS, joint program with Scuola Superiore Sant'Anna - Pisa",
@@ -83,6 +59,58 @@
       ]
     }
   ],
+  "teaching": [
+    {
+      "course": "TA Introduction to Economic Reasoning: Principles of Economics (B.Sc.)",
+      "institution": "SciencesPo - Menton",
+      "date": "2026-02",
+      "role": "Teaching Assistant",
+      "description": "February 2026 - April 2026"
+    },
+    {
+      "course": "TA Computer Simulation for Economics (M.Sc)",
+      "institution": "University of Trento",
+      "date": "2024-03",
+      "role": "Teaching Assistant",
+      "description": "March 2024 - June 2024"
+    },
+    {
+      "course": "TA Macroeconomics (M.Sc)",
+      "institution": "University of Trento",
+      "date": "2023-03",
+      "role": "Teaching Assistant",
+      "description": "March 2023 - June 2023"
+    }
+  ],
+  "work": [
+    {
+      "name": "University of Trento",
+      "position": "Research Assistant",
+      "url": "",
+      "startDate": "2024-03",
+      "endDate": "2024-09",
+      "summary": "Department of Economics and Management. Coordinator: Prof. Stefano Zambelli.",
+      "highlights": []
+    },
+    {
+      "name": "Atout African Arch.it",
+      "position": "Internship",
+      "url": "",
+      "startDate": "2023-01",
+      "endDate": "2023-05",
+      "summary": "Humanitarian Organization in Rovereto (Trento), Italy.",
+      "highlights": []
+    }
+  ],
+  "interests": [
+    {
+      "name": "Economics",
+      "keywords": [
+        "Political Economy",
+        "Inequality"
+      ]
+    }
+  ],
   "skills": [
     {
       "name": "Digital Skills",
@@ -110,15 +138,7 @@
       "fluency": "Basic"
     }
   ],
-  "interests": [
-    {
-      "name": "Economics",
-      "keywords": [
-        "Political Economy",
-        "Inequality"
-      ]
-    }
-  ],
+  
   "references": [],
   "publications": [],
   "presentations": [],
@@ -130,28 +150,6 @@
       "summary": "Project: Algorithms for the theoretical studies of economic agents decision making and market behaviors."
     }
   ],
-  "teaching": [
-    {
-      "course": "TA Introduction to Economic Reasoning: Principles of Economics (B.Sc.)",
-      "institution": "SciencesPo - Menton",
-      "date": "2026-02",
-      "role": "Teaching Assistant",
-      "description": "February 2026 - April 2026"
-    },
-    {
-      "course": "TA Computer Simulation for Economics (M.Sc)",
-      "institution": "University of Trento",
-      "date": "2024-03",
-      "role": "Teaching Assistant",
-      "description": "March 2024 - June 2024"
-    },
-    {
-      "course": "TA Macroeconomics (M.Sc)",
-      "institution": "University of Trento",
-      "date": "2023-03",
-      "role": "Teaching Assistant",
-      "description": "March 2023 - June 2023"
-    }
-  ],
+  
   "portfolio": []
 }
