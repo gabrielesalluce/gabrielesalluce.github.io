@@ -10,5 +10,6 @@ I enjoyed the deep so much that I earned my **Advanced Open Water** license the 
 Below are some photos of my underwater adventures.
 > *Please forgive the quality. I am a grey economist, not a photographer :C*
 
-![My first diving in Villassimius](images/IMG-20240807-WA0015.jpg)
+![My first diving in Villassimius](gabrielesalluce.github.io/images/IMG-20240807-WA0015.jpg)
 *My first diving in Villassimius.*
+
