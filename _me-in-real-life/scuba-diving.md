@@ -10,7 +10,8 @@ I enjoyed the deep blue so much that I earned my **PADI Advanced Open Water** li
 Below are some photos of my underwater adventures.
 > *Please forgive the quality. I am a grey economist, not a photographer :C*
 
-![My first diving in Villassimius](IMG-20240807-WA0015.jpg)
-*My first diving in Villassimius.*
+![My first diving in Villasimius](IMG-20240807-WA0015.jpg)
+*My first diving in Villasimius.*
+
 
 
